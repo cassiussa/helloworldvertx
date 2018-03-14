@@ -41,6 +41,14 @@
       <artifactId>vertx-web</artifactId>
     </dependency>
 
+
+<dependency>
+  <groupId>ch.qos.logback</groupId>
+  <artifactId>logback-core</artifactId>
+  <version>1.2.0</version>
+</dependency>
+
+
     <!-- Testing -->
     <dependency>
       <groupId>io.vertx</groupId>
